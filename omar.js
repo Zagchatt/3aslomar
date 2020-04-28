@@ -20,7 +20,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){
             </div>
             <br>
             <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
-            <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> يا­اهلاً بك  <h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1> اهلا وسهلا بك في شات عسل تايم نتمنى لك وقت ممتع </div>
+            <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> ­اهلاً بك  <h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1> اهلا وسهلا بك في شات عسل تايم نتمنى لك وقت ممتع </div>
           </div>
         </div></div>
     `).appendTo('div#d2')
